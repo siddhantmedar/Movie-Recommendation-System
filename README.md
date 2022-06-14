@@ -1,2 +1,2 @@
 # Movie-Recommendation-System
-Project deployed on Heroku - https://movie-recommendation-system-sm.herokuapp.com/
+Project live at - https://movie-recommendation-system-sm.herokuapp.com/
